@@ -20,7 +20,7 @@ If you want to contribute, please refer to the [contributing guidelines](./CONTR
 ## `apps/web`
 <details>
 <summary>
-How to start
+How too start
 </summary>
 
 ```sh
